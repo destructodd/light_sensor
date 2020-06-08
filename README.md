@@ -10,5 +10,5 @@ The raspberry pi communicates with the bulb using the LIFX API (https://api.deve
 The photo transistor output is analog. As the raspberry pi does not have any analog inputs as standard, a MCP3008 analog to digitial converter was used (https://learn.adafruit.com/mcp3008-spi-adc/python-circuitpython). An easier but more expensive solution would an Explorer Hat, which provides 4 analog input channels. 
 
 Potential Improvements 
--Variable resistor to adjust light threshold
--adjust bulb colour based on a temperature sensor
+Variable resistor to adjust light threshold
+Adjust bulb colour based on a temperature sensor
