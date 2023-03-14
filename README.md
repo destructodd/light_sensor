@@ -12,4 +12,3 @@ The photo transistor output is analog. As the raspberry pi does not have any ana
 Potential Improvements 
 Adjust bulb colour based on a temperature sensor
 
-boobaloo
